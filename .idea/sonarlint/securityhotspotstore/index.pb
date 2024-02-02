@@ -1,0 +1,9 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+R
+"src/main/java/org/example/App.java,2\6\268b09d2a5cdab7d148f0ec91f7b3fb51601410d
+6
+my.log,b\8\b860ef3255b2f20574f47affb20b1662a2786278
+7
+App.log,1\c\1c540e7581528d2c391f9f85b6b4a525e5273d07
